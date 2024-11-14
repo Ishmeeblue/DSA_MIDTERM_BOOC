@@ -8,7 +8,8 @@
 <li><strong>A code editor</strong>: A tool like Visual Studio Code or Sublime Text.</li>
 <li><strong>A package manager</strong>: Node.js and npm (or yarn) for managing project dependencies.</li>
 </ul><p></blockquote>
-
+<ol>
+<li><h2><strong>Install Node.js and npm</strong>: Download and install <a href="https://nodejs.org/en"_blank">Node.js</a> from the official website. This will also install npm, the package manager for Node.js.</li>
 
 
 
