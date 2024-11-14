@@ -38,3 +38,5 @@
 <li>Explore online tutorials and documentation to learn more.</li>
 <li>Join online communities to ask questions and learn from others.</li></ul>
 </ul>
+<hr>
+<h4>By following these steps and consistently practicing, you'll be well on your way to becoming a React JS developer.</h4>
