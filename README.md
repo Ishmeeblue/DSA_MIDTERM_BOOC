@@ -10,8 +10,8 @@
 <p>To begin your React journey, consider these prerequisites:
 <ol>
 <li><strong>HTML,CSS, and JavaScript</strong>: A solid foundation in these web development fundamentals.</li>
-<li>**A code editor**: A tool like Visual Studio Code or Sublime Text.</li>
-<li>**A package manager**: Node.js and npm (or yarn) for managing project dependencies.</li>
+<li><strong>A code editor</strong>: A tool like Visual Studio Code or Sublime Text.</li>
+<li><strong>A package manager</strong>: Node.js and npm (or yarn) for managing project dependencies.</li>
 </ol><p>
 
 
