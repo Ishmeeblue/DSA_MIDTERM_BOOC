@@ -8,12 +8,15 @@
 <li><strong>A code editor</strong>: A tool like Visual Studio Code or Sublime Text.</li>
 <li><strong>A package manager</strong>: Node.js and npm (or yarn) for managing project dependencies.</li>
 </ul><p></blockquote>
+<br>
 <ol>
 <li><strong>Install Node.js and npm</strong>: Download and install <a href="https://nodejs.org/en"_blank">Node.js</a> from the official website. This will also install npm, the package manager for Node.js.</li>
 <li><strong>Create a New React App</strong>: 
 <ol>
 <li>Open your terminal or command prompt.</li>
-<li>Run the following command: <pre><code> <strong>Bash</strong> <p>npx create-react-app my-app </p></pre></code></li>
-
+<li>Run the following command: <pre><code> <strong>Bash</strong> <p>npx create-react-app my-app </p></pre></code> Replace my-app with your desired project name.</li></ol>
+<li><strong>Start the Development Server</strong>:
+<ol>
+<li>Navigate to your project directory: <pre><code><strong>Bash</strong> <p>cd my-app </p></pre></code></li></ol>
 
 
