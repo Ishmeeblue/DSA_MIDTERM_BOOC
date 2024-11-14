@@ -27,7 +27,7 @@
 <li>Use JSX, a syntax extension for JavaScript, to write HTML-like structures within JavaScript code.</li></ul>
 <li><strong>Learn React Concepts</strong>:
 <ul>
-<li>Components: The building blocks of React apps.</li>
+<li><strong>Components</strong>: The building blocks of React apps.</li>
 <li><strong>JSX</strong>: A syntax for writing HTML-like structures in JavaScript.</li>
 <li><strong>Props</strong>: Used to pass data between components.</li>
 <li><strong>State</strong>: Manages the dynamic behavior of components.</li>
