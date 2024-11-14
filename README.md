@@ -9,7 +9,7 @@
 <h3>Getting Started with React Js</h3>
 <p>To begin your React journey, consider these prerequisites:
 <ol>
-<li>**HTML,CSS, and JavaScript**: A solid foundation in these web development fundamentals.</li>
+<li><strong>HTML,CSS, and JavaScript</strong>: A solid foundation in these web development fundamentals.</li>
 <li>**A code editor**: A tool like Visual Studio Code or Sublime Text.</li>
 <li>**A package manager**: Node.js and npm (or yarn) for managing project dependencies.</li>
 </ol><p>
