@@ -13,7 +13,7 @@
 <li><strong>Create a New React App</strong>: 
 <ol>
 <li>Open your terminal or command prompt.</li>
-<li>Run the following command: <pre><code>Open your
+<li>Run the following command: <pre><code> <strong>Bash</strong> / npx create-react-app my-app </li>
 
 
 
