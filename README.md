@@ -1,3 +1,4 @@
+<html>
 <h1>A COMPREHENSIVE GUIDE TO REACT JS</h1>
 <h3> What is React Js?</h3>
 <p> React is a powerful JavaScript library for building user interfaces. It employs a component-based architecture, virtual DOM, and one-way data flow to create efficient and scalable web applications. React JS is a versatile JavaScript library used to build efficient and interactive user interfaces. It simplifies development by breaking down UIs into reusable components. React optimizes performance through its virtual DOM, which minimizes direct DOM manipulations. Its declarative approach and unidirectional data flow make code more readable and maintainable. With a strong community and a rich ecosystem of tools, React is a popular choice for creating modern web applications.</p>
@@ -14,7 +15,7 @@
 <li><strong>Create a New React App</strong>: 
 <ul>
 <li>Open your terminal or command prompt.</li>
-<li>Run the following command: <pre><code> <strong>Bash</strong> <p>npx create-react-app my-app </p></pre></code><i> Replace my-app with your desired project name.</i></li></ul>
+<li>Run the following command: <pre><code><strong>Bash</strong> <p>npx create-react-app my-app </p></pre></code><i> Replace my-app with your desired project name.</i></li></ul> 
 <li><strong>Start the Development Server</strong>:
 <ul>
 <li>Navigate to your project directory: <pre><code><strong>Bash</strong> <p>cd my-app </p></pre></code></li>
@@ -40,3 +41,4 @@
 </ul>
 <hr>
 <h4>By following these steps and consistently practicing, you'll be well on your way to becoming a React JS developer.</h4>
+</html>
