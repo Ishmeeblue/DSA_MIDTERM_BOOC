@@ -1,1 +1,2 @@
-<marquee><h1>REACT JS FOR BEGINNERS</h1></marquee>
+<bgcolor="pink">
+<h1>REACT JS FOR BEGINNERS</h1>
